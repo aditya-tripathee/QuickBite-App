@@ -10,7 +10,7 @@ import React from 'react'
 
 function Footer() {
   return (
-   <div className='text-gray-900 pt-15 md:pt-5 grid fixed grid-cols-2 gap-2  mt-3 px-6 justify-center items-between md:flex md:justify-evenly  h-[600px] md:h-[350px] w-full bg-green-800'>
+   <div className='text-gray-900 pt-15 md:pt-5 grid fixed b-0 grid-cols-2 gap-2  mt-3 px-6 justify-center items-between md:flex md:justify-evenly  h-[600px] md:h-[350px] w-full bg-green-800'>
      
     <div>
         <img src={QuickBiteLogo} className="w-[100px] h-[100px]"/>
