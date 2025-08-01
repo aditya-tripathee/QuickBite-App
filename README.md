@@ -1,16 +1,43 @@
-<<<<<<< HEAD
-# React + Vite
+# 🍔 QuickBite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickBite is a fast, clean, and modern food ordering web app built using **React + Vite + Tailwind CSS**. Perfect for showcasing front-end skills with responsive design and component-based architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Click here to view the deployed app](https://quickbite-rosy.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# QuickBite-App
->>>>>>> 28da40f664a08451ab0f10cea15db0104caa348a
+---
+
+## 📸 Screenshot
+
+![QuickBite UI](./public/screenshot.png)
+![QuickBite UI](./public/screenshot2.png)
+![QuickBite UI](./public/screenshot3.png)
+
+> ⚠️ Make sure `screenshot.png` is committed and located at `public/` folder.
+
+---
+
+## ⚙️ Features
+
+- 🍱 Food card components with image, name, price
+- 🔍 Search bar for filtering food items
+- 📱 Fully responsive on all screen sizes
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **React Icons**
+
+---
+
+
+
+
+
