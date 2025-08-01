@@ -10,11 +10,7 @@ QuickBite is a fast, clean, and modern food ordering web app built using **React
 
 ---
 
-## 📸 Screenshot
 
-![QuickBite UI](./public/screenshot.png)
-![QuickBite UI](./public/screenshot2.png)
-![QuickBite UI](./public/screenshot3.png)
 
 > ⚠️ Make sure `screenshot.png` is committed and located at `public/` folder.
 
