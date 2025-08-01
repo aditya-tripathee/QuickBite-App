@@ -43,7 +43,7 @@ function Footer() {
         <h2 className='text-xl font-bold'>Available</h2>
         <ul className='font-semibold md:pt-2'>
             
-            <li>Goraakhpur</li>
+            <li>Gorakhpur</li>
             <li>Lucknow</li>
             <li>Delhi</li>
             <li>Noida</li>
