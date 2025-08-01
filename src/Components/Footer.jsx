@@ -48,6 +48,7 @@ function Footer() {
             <li>Delhi</li>
             <li>Noida</li>
              <li>Gurgoan</li>
+             <li>Kanpur</li>
         </ul>
     </div>
     <div>
