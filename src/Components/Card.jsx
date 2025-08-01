@@ -1,8 +1,5 @@
 import React from 'react';
-<<<<<<< HEAD
-// import Img from '../Assets/image1.avif';
-=======
->>>>>>> c76ca7d8f4960ad1881a311077db246b96a17a38
+
 import { LuLeafyGreen } from "react-icons/lu";
 import { GiChickenOven } from "react-icons/gi";
 
