@@ -6,7 +6,7 @@ QuickBite is a fast, clean, and modern food ordering web app built using **React
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed app](https://quickbite-rosy.vercel.app)
+👉 [Click here to view the deployed app](https://quickbite1.netlify.app/)
 
 ---
 
